@@ -6,7 +6,7 @@ buckets, No-SLA flags) and exports Power BI / Excel-friendly CSVs.
 ## What you get
 - Tiny Northwind-like sample data (so you can run without external files)
 - Star schema tables + SLA views
-- Docker Compose + Makefile (optional)
+- Docker Compose + Makefile
 - Validation SQL and documentation
 - Exports for: shipper SLA, late orders by country, employee throughput, and a sample fact
 

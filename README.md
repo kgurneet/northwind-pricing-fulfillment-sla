@@ -2,7 +2,7 @@ Northwind Pricing & Fulfillment SLA
 
 A compact analytics project that computes lead time, on-time rate, late-day buckets, and No-SLA flags using a small Northwind-style dataset. Outputs are optimized for Power BI, Excel, and CSV-based workflows.
 
-Features
+*Features*
 
 Minimal built-in sample data (no external files required)
 

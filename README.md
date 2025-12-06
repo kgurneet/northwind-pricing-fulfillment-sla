@@ -5,11 +5,11 @@ A compact analytics project that computes lead time, on-time rate, late-day buck
 ***
 Features
 
-Minimal built-in sample data (no external files required)
+Minimal built-in sample data 
 
 Star-schema tables + SLA analytic views
 
-Clean exports: shipper SLA, late orders by country, employee throughput, and a sample fact
+Exports: shipper SLA, late orders by country, employee throughput, and a sample fact
 
 Runs with local psql or Docker Compose
 
